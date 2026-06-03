@@ -3,7 +3,6 @@ Ejecutar en terminal:
 2. **node app.js**
 
 En alguna pagina web (microsoft edge, google..)
-
 1. Para ver todos los productos: **http://localhost:3000/api/productos**
 
 2: Para probar el filtro de categoría: **http://localhost:3000/api/productos?categoria=perifericos** 
